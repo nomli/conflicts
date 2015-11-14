@@ -1,0 +1,2 @@
+# conflicts
+test conflict resolve 
